@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo2.svg"
+   inkscape:export-filename="C:\Users\Alexander\Documents\GitHub\yennysay\images\logo2.png"
+   inkscape:export-xdpi="282.22223"
+   inkscape:export-ydpi="282.22223">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="266.67526"
+     inkscape:cy="138.67487"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g880"
+     showgrid="false"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-117)">
+    <g
+       id="g846"
+       transform="rotate(-24.454693,-326.96613,130.5472)">
+      <g
+         id="g880"
+         transform="rotate(11.459156,2612.648,-1081.7421)">
+        <path
+           style="fill:#ff6600;stroke-width:0.2474557"
+           d="m 306.14112,896.89555 c -1.03546,-0.90713 -1.48766,-2.02071 -1.4087,-3.46613 0.0516,-0.94518 2.30252,-11.69632 2.82371,-13.4873 l 0.14448,-0.49643 -17.11055,-5.04639 c -15.81724,-4.66488 -17.16381,-5.0942 -17.81476,-5.68019 -0.38727,-0.34869 -0.80816,-0.91407 -0.93518,-1.25657 -0.33335,-0.8989 -0.89671,-10.58005 -0.66193,-11.37394 0.24182,-0.81553 1.43582,-2.10513 2.22954,-2.40659 0.32071,-0.12186 6.66486,-1.82587 14.0981,-3.78684 13.58122,-3.58284 51.4716,-13.59724 74.71542,-19.7472 45.24155,-11.97023 66.33059,-17.08052 67.2678,-17.02173 1.46406,0.0918 2.91778,0.98815 3.75872,2.31752 1.66135,5.60936 2.61141,21.41816 2.9508,27.02553 0.39833,6.57674 0.96605,16.0608 1.26162,21.07568 0.29559,5.0149 0.62749,10.4521 0.73757,12.0827 0.11011,1.63059 0.24793,3.85056 0.30633,4.93324 0.0584,1.0827 0.37292,6.35137 0.69891,11.70814 1.11327,18.29166 1.23896,20.87917 1.04555,21.52313 -0.23799,0.79468 -1.43638,2.07785 -2.24078,2.4009 -1.7423,0.69972 -16.22537,-3.56197 -50.34847,-13.492 l -31.80751,-9.25619 -2.458,6.79636 c -1.35193,3.738 -2.65565,7.03711 -2.89718,7.33134 -0.54206,0.66049 -1.90958,1.36909 -2.94083,1.52402 -0.64806,0.0975 -4.02308,-0.83082 -20.69362,-5.691 -19.20915,-5.60009 -19.94785,-5.83244 -20.72102,-6.51014 z m 37.93451,0.78998 c 0.26246,-0.90181 0.90695,-2.8396 1.43241,-4.30617 l 0.95522,-2.66652 -14.70238,-4.27848 c -11.59725,-3.37485 -14.71809,-4.21907 -14.77651,-3.99729 -0.0519,0.19784 -1.39041,6.99708 -1.69087,8.59065 -0.005,0.0316 6.36025,1.91135 14.14711,4.17738 l 14.1579,4.12004 z"
+           id="path826"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccssccccccsccscsscsccsccsccscs" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot834"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion836"><rect
+           id="rect838"
+           width="855.59918"
+           height="543.4621"
+           x="-1623.3152"
+           y="359.85452" /></flowRegion><flowPara
+         id="flowPara840" /></flowRoot>  </g>
+</svg>

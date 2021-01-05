@@ -1,0 +1,5 @@
+pip install kivy kivy.deps.sdl2 kivy.deps.glew kivy.deps.gstreamer
+
+работает.
+
+pip install buildozer
