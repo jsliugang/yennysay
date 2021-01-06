@@ -1,4 +1,6 @@
 # yennysay
+
+![yennysay](https://raw.githubusercontent.com/leonov-av/yennysay/main/images/youtube.png)
  
 Yennysay is an open source GUI tool that can read texts using the free offline TTS engine built-in in Windows 10. 
 It shows progress in the text box. You can stop it and move the cursor to another fragment.
