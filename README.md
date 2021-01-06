@@ -9,3 +9,5 @@ If the "Track clipboard" checkbox is selected, it automatically reads whatever i
 Moreover, if you copy the URL, it will try to get the text from that URL and read it.
 
 I also added a special handling for YouTube URLs. Yennysay will open them in SMPLayer.
+
+Demo on Youtube: https://www.youtube.com/watch?v=duV9KVBRa2c
