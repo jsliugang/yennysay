@@ -147,7 +147,7 @@ def open_settings_in_editor():
 
 root = Tk()
 root.option_add('*tearOff', FALSE) # Menu
-root.title("Ennysay")
+root.title("Yennysay")
 root.iconbitmap(default='images/logo2.ico')
 
 ##### Global parameters
